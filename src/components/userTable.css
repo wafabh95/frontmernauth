@@ -1,0 +1,9 @@
+.addbtn{
+    margin:20px
+   
+  
+}
+.btnadd{
+   display: flex;
+   justify-content: flex-end;
+}
